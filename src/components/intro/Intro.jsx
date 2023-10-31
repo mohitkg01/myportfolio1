@@ -7,7 +7,7 @@ import javascript from '../../assets/javascript.png'
 import sass from '../../assets/sass.png'
 import react from '../../assets/react.png'
 import {AiOutlineDownload} from 'react-icons/ai';
-import pdf from '../../assets/Resume_mohit.pdf';
+import pdf from '../../assets/resume_Mohit.pdf';
 import { HashLink } from 'react-router-hash-link';
 import {BsArrowDownSquare} from 'react-icons/bs';
 
